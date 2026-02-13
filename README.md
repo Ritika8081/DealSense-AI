@@ -23,7 +23,7 @@
 **DealSense AI delivers daily intelligence** that turns data into revenue protection.
 
 ##  System Architecture
-![System Architecture](CRM_to_Risk_Scoring_Engine.png)
+<img src="CRM_to_Risk_Scoring_Engine.png" alt="System Architecture" height="550" width="600"/>
 
 ##  Quick Setup Steps
 ```bash
